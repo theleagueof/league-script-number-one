@@ -1,0 +1,19 @@
+/*
+  'League Script Number One'
+  https://www.theleagueofmoveabletype.com/league-script-number-one
+
+  Copyright (c) 2008, Haley Fiege <haley@kingdomofawesome.com>,
+  with Reserved Font Name: "League Script".
+
+  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+  This license is copied below, and is also available with a FAQ at:
+  http://scripts.sil.org/OFL
+*/
+@font-face {
+  font-family: 'League Script Number One';
+  src: url('LeagueScriptNumberOne-webfont.eot');
+  src: url('LeagueScriptNumberOne-webfont.eot?#iefix') format('embedded-opentype'),
+       url('LeagueScriptNumberOne-webfont.woff') format('woff'),
+       url('LeagueScriptNumberOne-webfont.ttf')  format('truetype'),
+       url('LeagueScriptNumberOne-webfont.svg#webfontvrSlvBea') format('svg');
+}
